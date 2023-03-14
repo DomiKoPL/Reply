@@ -1,0 +1,8 @@
+test   max_score  (short)      our     short   zostalo
+0           152       0        149        0         3
+1         53222     53k      48525      48k        5k
+2       3329527     3kk    3135419      3kk      200k
+3      10908258    11kk    7329502      7kk       4kk (tylko dodatnie)
+4      11186127    11kk    6029238      6kk       5kk
+5      43107308    43kk   22970594     22kk      21kk  
+6      10169375    10kk    3864138      5.7kk     4kk   (nie mozna wszystkich wezy uzyc, bo wtedy -120268319, tylko srodek planszy)

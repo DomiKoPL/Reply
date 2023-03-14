@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "tuple": "cpp",
+    "sstream": "cpp",
+    "*.tcc": "cpp",
+    "list": "cpp"
+  },
+  "python.linting.enabled": false
+}

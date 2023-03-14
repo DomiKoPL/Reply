@@ -1,0 +1,5 @@
+9 0 D D D D D
+2 2 D D D L U U
+5 2 R U U L
+0 1 R U
+6 3 D R

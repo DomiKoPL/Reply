@@ -1,0 +1,49 @@
+12 5 L L D D L L U U U L D L U L U 
+21 9 L L D L L L D L L L L 
+18 45 R R R R U U R 
+7 45 U R R U U R U R D R D R R R R R U 
+30 1 R R R R R R D D R D D L 
+27 33 D D L D 
+20 23 R R R D R R R D D D D R D D L 
+10 17 L L U U L L L L U L D 
+7 30 L U L U L L L D L D D D R D L L L U 
+22 13 U R R D R R R 
+38 45 D D R R R D R R D R R R D R U R U 
+35 10 D R R R R R R D D L D L L L L 
+21 10 R U R U R R D 
+37 49 L U L L D L U U L U L L L L L L L U L 
+9 9 R D R R R R U 
+22 8 L L U U R R R U L U R U U R D R R U R 
+6 2 D R R R U R R D R D R U R 
+12 49 D D L L U L L U U R U L U R R U R U 
+0 9 D L D D 
+17 16 D R U U U U L 
+10 28 L U L U U 
+18 42 R R U U U R R U L U U L U R U R U 
+38 3 U U R R 
+16 47 L D R D R R 
+40 46 L U U R R U R R U U U R R U U L U R R 
+2 35 U L L L L L 
+30 47 D L L L D D L D L U L L U L L 
+30 28 D D L D L D L L U L L U U 
+33 12 D R D L D L D D D D R R U 
+33 23 U R U R D D D R D D L L 
+3 7 U R D D R D L L L U L U U U L L L D L 
+6 8 R D D L D R R R U 
+27 23 U L L U U U U L U R U U 
+6 7 R U L L 
+25 4 R R D R U U R R R D R R R U U R 
+9 21 R U U U L D L L L L D D R R 
+15 23 U U U R R U L L L U U L U L 
+19 35 U L D D L D D R R 
+35 47 R U R U U 
+27 41 U R R R U R U R U U L L U L L 
+16 38 U U U U U U U U L U L L D L L L D 
+31 21 U U U U L U R U U L L L D 
+40 32 R U U R R U U U L D L U U U 
+19 6 L U U R U R U U U L L D L D R 
+33 32 U L U U R U R R 
+41 8 L D L L U U U 
+13 34 D D D L L U U U 
+16 21 D D D D L 
+9 37 L U U R R U U L U L U U R 
